@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Rawalpindi",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2023-09-30T06:19:22.407Z",
+      "notes": "amazing",
+      "position": {
+        "lat": "33.64797624171405",
+        "lng": "73.0725145339966"
+      },
+      "id": 73930386
+    },
+    {
+      "cityName": "Rawalpindi",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2023-09-30T06:19:22.407Z",
+      "notes": "amazing",
+      "position": {
+        "lat": "33.64797624171405",
+        "lng": "73.0725145339966"
+      },
+      "id": 73930387
+    },
+    {
+      "cityName": "Dera Ismail Khan",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2025-05-08T15:19:52.780Z",
+      "notes": "Amazing",
+      "position": {
+        "lat": "31.82917486419062",
+        "lng": "70.90679168701173"
+      },
+      "id": 73930388
+    },
+    {
+      "cityName": "Khuzdar",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2025-05-08T15:21:14.860Z",
+      "notes": "Amazing",
+      "position": {
+        "lat": "27.843458566018136",
+        "lng": "66.75192592186455"
+      },
+      "id": 73930389
+    },
+    {
+      "cityName": "Bahabad",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2025-05-08T15:22:07.509Z",
+      "notes": "WOw",
+      "position": {
+        "lat": "31.955735428630252",
+        "lng": "56.0302734375"
+      },
+      "id": 73930390
+    }
+  ]
+}
